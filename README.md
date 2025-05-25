@@ -1,4 +1,6 @@
-# Coffee-Case-Study
+# ☕ Coffee Case Study: Using Data Science & AI to Drive Smarter Business Decisions
+
+
 Using Machine Learning to make informed business decisions about whether customers will purchase new coffee selection offered. 
 
 ![image](https://github.com/user-attachments/assets/43eb2a49-f249-4b48-b869-d8c83bd969d9)
